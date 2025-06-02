@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello !
 
-<!--
-**donmo42/donmo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+🎓 Diplômé en **Conception et Développement d'Applications**, je poursuis actuellement une formation à **l'École 42** en **Architecture Numérique**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Je suis **développeur fullstack**, passionné par :
+
+- L’ingénierie logicielle
+- L’innovation technologique
+- Les startups 🚀
+- Les nouvelles technologies (IA, cloud, blockchain, etc.)
+
+## 🎯 Objectif actuel
+
+Je suis à la **recherche d'une alternance** dans le cadre de mon **Master en Architecture Logicielle**.
+
+
+## 📫 Me contacter
+
+N'hésitez pas à me contacter pour échanger 
+
+Merci de visiter mon profil ! 
