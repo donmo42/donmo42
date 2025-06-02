@@ -4,12 +4,7 @@
 
 🎓 Diplômé en **Conception et Développement d'Applications**, je poursuis actuellement une formation à **l'École 42** en **Architecture Numérique**.
 
-💻 Je suis **développeur fullstack**, passionné par :
-
-- L’ingénierie logicielle
-- L’innovation technologique
-- Les startups 🚀
-- Les nouvelles technologies (IA, cloud, blockchain, etc.)
+💻 Je suis **développeur fullstack**,  passionné par l'ingénierie logicielle, l'innovation technologique, les startups, ainsi que les nouvelles technologies
 
 ## 🎯 Objectif actuel
 
