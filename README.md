@@ -12,6 +12,5 @@
 
 ## 📫 Me contacter
 
-N'hésitez pas à me contacter pour échanger 
 
 Merci de visiter mon profil ! 
