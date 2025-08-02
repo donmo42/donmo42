@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-🎓 Diplômé en **Conception et Développement d'Applications**, je poursuis actuellement une formation à **l'École 42** en **Expert Architecture Informatique**.
+🎓 **Concepteur et Développeur d'Applications**, je poursuis actuellement une formation à **l'École 42** en **Expert Architecture Informatique**.
 
  Je suis **développeur fullstack**,  passionné par l'ingénierie logicielle, l'innovation technologique, les startups, ainsi que les nouvelles technologies
 
