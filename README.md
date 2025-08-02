@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Concepteur et Développeur d’Applications | en cours de spécialisation en ** Expert en architecture Informatique à l’École 42**.
+Concepteur et Développeur d’Applications | en cours de spécialisation en **Expert en architecture Informatique à l’École 42**.
 
 
 
